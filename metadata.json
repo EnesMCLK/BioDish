@@ -1,0 +1,5 @@
+{
+  "name": "BioDish",
+  "description": "A medically-aware AI nutritional health assistant powered by Gemini 2.5 Flash. Analyze symptoms, lab results, and get meal plans.",
+  "requestFramePermissions": []
+}
